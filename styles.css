@@ -1,0 +1,103 @@
+*{
+    .header{ 
+       color: rgb(224, 199, 164);
+       background-color: rgb(103, 83, 57);
+       font-size: x-large;
+       font-family: 'Times New Roman', Times, serif;
+       position: relative;
+       text-align: center;
+    }
+    .aboutme{
+        position: relative;
+        background-color: rgb(255, 219, 225);
+        font-size: x-large;
+        text-align: left; 
+        border: 5px solid white;
+        width: 750px;
+        height: 400px;
+        position: relative;
+        left: 575px; 
+        bottom: 530px;
+    
+    }
+    .A{
+        position: relative;
+        left: 575px;
+        bottom:500px;
+        color: rgb(103, 83, 57);
+    }
+
+    
+    .logo{
+        position: relative;
+        width: 400px;
+        height: 500px;
+        left: 50px;
+       
+    }
+
+    .cakes{
+        position: relative;
+        bottom: 500px;
+        left: 50px;
+        background-color:   rgb(224, 199, 164);
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif ;
+        color: rgb(103, 83, 57);
+    }
+
+    .cupcakes{
+        position: relative;
+        bottom: 830px;
+        left: 350px;
+        background-color:   rgb(224, 199, 164);
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif ;
+        color: rgb(103, 83, 57);
+    }
+
+    .cookies{
+        position: relative;
+        bottom: 1160px;
+        left: 650px;
+        background-color:   rgb(224, 199, 164);
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif ;
+        color: rgb(103, 83, 57);
+    }
+
+    .holiday{
+        position: relative;
+        bottom: 1490px;
+        left: 950px;
+        background-color:   rgb(224, 199, 164);
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif ;
+        color: rgb(103, 83, 57);
+    }
+    
+    .bread{
+        position: relative;
+        bottom: 1820px;
+        left: 1250px;
+        background-color:   rgb(224, 199, 164);
+        width: 200px;
+        height: 300px;
+        text-align: center;
+        font-size: xx-large;
+        font-family: 'Times New Roman', Times, serif ;
+        color: rgb(103, 83, 57);
+    }
+}
